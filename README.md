@@ -13,27 +13,47 @@ You can find him on the internet 😉;
 - Github: [@edgarampiire](https://github.com/edgarampiire)
 - LinkedIn: [@edgarampirie](https://www.linkedin.com/in/edgar-ampiire-7b2669104/)
 
-<div align='center'>
-    <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/><span>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-    <p></p>  
-   
-  </div>
+#
 
----
+### Languages & Tools:
+</br><br/>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="30" align="left" alt="javacript">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30" align="left" alt="react"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30" align="left" alt="typescript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" align="left" alt="nodejs"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" width="30" align="left" alt="nextjs"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="30" align="left" alt="tailwind"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="30" align="left" alt="sass"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="30" align="left" alt="bootstrap">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="30" align="left" alt="mui"/>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" align="left" alt="git">
+<img align="left" alt="Visual Studio Code" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30" align="left" alt="figma"/>
+</br><br/>
 
-### My GitHub Stats
+#
+### Badges
 
-![Edgar's gitHub stats](https://github-readme-stats.vercel.app/api?username=edgarampiire&show_icons=true&theme=radical)
+<b>My GitHub Stats</b>
 
-![edgar's top-langs used](https://github-readme-stats.vercel.app/api/top-langs?username=edgarampiire&show_icons=true&locale=en&layout=compact&langs_count=10&theme=radical)
+<a href="http://www.github.com/edgarampiire"><img src="https://github-readme-stats.vercel.app/api?username=edgarampiire&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="edgarampiire's GitHub stats" /></a>
+
+<a href="http://www.github.com/edgarampiire"><img src="https://github-readme-streak-stats.herokuapp.com/?user=edgarampiire&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/edgarampiire" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarampiire&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+#
 
 ### Profile Visit Count
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=edgarampiire.edgarampiire)
 <br>
 
+#
+
 </div>
+
+
+
+
+
