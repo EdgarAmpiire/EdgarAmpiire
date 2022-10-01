@@ -13,7 +13,7 @@ You can find him on the internet 😉;
 - Website: https://edgarampiire.netlify.app/
 - Twitter: [@thedevbro](https://twitter.com/thedevbro/)
 - Github: [@edgarampiire](https://github.com/edgarampiire)
-- LinkedIn: [@edgarampirie](https://www.linkedin.com/in/edgar-ampiire-7b2669104/)
+- LinkedIn: [@edgarampiire](https://www.linkedin.com/in/edgar-ampiire-7b2669104/)
 
 #
 
