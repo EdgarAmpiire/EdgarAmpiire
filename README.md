@@ -2,18 +2,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 
 ## So, Who's Edgar? 👀
-
 \
 Edgar is a frontend developer that's very proficient in javascript and is extremely interested in making people's designs interactive  by using his extraordinary abilities of Code. He also loves to share with other developers on [twitter](https://twitter.com/thedevbro).
 
 In his day job, Edgar develops the frontend of most upcoming apps since that's literally all he's good at.
 
-## Activities 
+## Current Activities 
 
-Edgar is currently learning React Native ⚛️
+- Edgar is currently learning React Native ⚛️
 
-Edgar is also on his journey to becoming a Full Stack Developer 🚀
+- Edgar is also on his journey to becoming a Full Stack Developer 🚀
 
+## Find Him
 You can find him on the internet 😉;
 
 - Website: https://edgarampiire.netlify.app/
