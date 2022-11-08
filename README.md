@@ -42,7 +42,7 @@ You can find him on the internet 😉;
 #
 ### Badges
 
-<b>My GitHub Stats</b>
+<b>My GitHub Statistics </b>
 
 <a href="http://www.github.com/edgarampiire"><img src="https://github-readme-stats.vercel.app/api?username=edgarampiire&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="edgarampiire's GitHub stats" /></a>
 
