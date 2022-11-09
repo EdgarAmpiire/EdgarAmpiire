@@ -39,7 +39,7 @@ You can find him on the internet 😉;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30" align="left" alt="figma"/>
 </br><br/>
 
-#
+
 ### Badges
 
 <b>My GitHub Statistics </b>
