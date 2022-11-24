@@ -14,7 +14,7 @@ In his day job, Edgar develops the frontend of most upcoming webapps since that'
 - Edgar is also on his journey to becoming a Full Stack Developer 🚀
 
 ## Find Him
-You can find him on the internet 😉;
+You can find him on the internet 😉
 
 - Website: https://edgarampiire.netlify.app/
 - Twitter: [@thedevbro](https://twitter.com/thedevbro/)
