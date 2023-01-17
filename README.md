@@ -23,7 +23,7 @@ You can find him on the internet 😉
 
 ##
 
-### Languages & Tools:
+### Languages & Tools
 
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="30" align="left" alt="javacript">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30" align="left" alt="react"/>
