@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Edgar is a frontend developer that's very proficient in javascript and is extremely interested in making people's designs interactive  by using his extraordinary abilities of Code. He also loves to share with other developers on [twitter](https://twitter.com/thedevbro).
 
-In his day job, Edgar develops the frontend of most upcoming webapps since that's literally all he's good at.
+In his day job, Edgar developes the frontend of most upcoming webapps since that's literally all he's good at.
 
 ## Current Activities 
 
