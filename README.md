@@ -31,7 +31,7 @@ Currently sharpening my skills through [The Odin Project](https://www.theodinpro
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="30" alt="javascript">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30" alt="react"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="30" alt="bootstrap"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="30" alt="tailwind"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30" alt="tailwindcss"/>
 
 **Currently Learning**  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="30" alt="ruby"/>
