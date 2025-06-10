@@ -52,7 +52,7 @@ Currently sharpening my skills through [The Odin Project](https://www.theodinpro
 - 🐦 [Twitter @thedevbro](https://twitter.com/thedevbro)
 - 💼 [LinkedIn](https://www.linkedin.com/in/edgar-ampiire-7b2669104/)
 - 📧 Email: **eampiire@gmail.com**
-- 💬 [Discord] (https://discord.com/users/1372557357002784782)
+- 💬 [Discord](https://discord.com/users/1372557357002784782)
 
 ---
 
@@ -80,7 +80,7 @@ Currently sharpening my skills through [The Odin Project](https://www.theodinpro
 
 ## 💬 Custom Quote
 
-> **"Who dares wins!"**
+> **"WHO DARES WINS!"**
 
 ---
 
